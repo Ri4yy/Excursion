@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@400;500;600;700&display=swap');
+
+.font-cormorant {
+    font-family: 'Cormorant Unicase', serif;
+}
+
+span[aria-current="true"] {
+    background: #E25C45;
+}
+.swiper-pagination-bullet {
+    background: #fff;
+}
